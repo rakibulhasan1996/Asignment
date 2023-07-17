@@ -1,0 +1,157 @@
+body{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+.head-container{
+    display: flex;
+    gap: 97px;
+    background: #e554731a;
+    padding: 0px 150px 0px 120px;
+
+}
+.img-tag{
+    width: 600px;
+    height: 800px;
+}
+.head-title{
+    color:#272727;
+    font-size:70px;
+}
+.head-description{
+    color:#27272799;
+}
+.btn-primary{
+    border-radius: 8px;
+    background: #E55473;
+    display: inline-flex;
+    padding: 20px 43px;
+    gap: 10px;
+    color:white;
+    border: 0px;
+}
+.main-container{
+    margin-top: 130px;
+}
+.main-text{
+    text-align: center;
+}
+.main-taitle{
+    font-size: 40px;
+    font-weight: 800;
+}
+.main-description{
+    color: #27272799;
+    font-size: 18px;
+    font-weight: 400;
+}
+.img-container{
+    margin: 48px 120px 0px 100px;
+    max-width:1920px;
+    max-height: 4867px;
+    display: flex;
+    align-items: baseline;
+    
+    
+}
+.img1{
+    background: #a7216226;
+    background-size: 400px 400px;
+    border-radius: 300px 300px 0px 0px;
+    padding:50px 25px 0px 25px;
+
+}
+.img2{
+    background:#0597a026;
+    background-size: 400px 400px;
+    border-radius: 300px 300px 0px 0px;
+    padding:50px 0px 50px 10px;
+}
+.img3{
+    background:#477d1126;
+    border-radius: 300px 300px 0px 0px;
+    padding:50px 25px 0px 25px;
+    background-size: 400px 400px;
+
+}
+
+
+.hot-dil-container{
+    display: flex;
+    gap: 60px;
+    background:#e554730d;
+    text-align: center;
+    padding:100px 300px 100px 300px; 
+    margin-top: 100px;
+}
+.hot-dil-title{
+    color: #272727;
+    font-size: 45px;
+}
+.hot-dil-description{
+    color:#27272799;
+
+}
+.insta-container{
+    text-align: center;
+}
+.insta-title{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+.insta-description{
+    color: #27272799;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400; 
+}
+.col1{
+    margin-right: 20px;
+}
+.del-section{
+    background-image:url(../Flower/Rectangle9.png); 
+    text-align:center;
+    background-repeat: no-repeat;
+    padding: 100px 50px 100px 50px;
+    margin: 100px 100px 100px 100px;
+   
+}
+.head-title{
+    color: #272727;
+    font-size: 60px;
+    font-weight: 800;
+    
+}
+.del-rate{
+    color: #27272799;
+}
+.mail-box{
+    width: 700px;
+    height: 64px;   
+}
+/* Footer style */
+.footer-container{
+    background: #111010;
+    padding: 70px 0px 70px 0px;
+}
+.footer-title{
+    font-size: 48px;
+    font-weight: bold;
+    color: white;
+    text-align:center;
+}
+.footer-description{
+    color:#ffffffe6;
+    text-align: center;
+}
+.copy-right{
+    color:#ffffff66;
+    text-align: center;
+    font-size: 12px;
+}
+
+
+
+
+
