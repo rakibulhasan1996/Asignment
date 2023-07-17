@@ -19,6 +19,7 @@ body{
 }
 .head-description{
     color:#27272799;
+    text-align: justify;
 }
 .btn-primary{
     border-radius: 8px;
