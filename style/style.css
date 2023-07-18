@@ -107,9 +107,23 @@ body{
     font-size: 18px;
     font-weight: 400; 
 }
-.col1{
-    margin-right: 20px;
+.insta-img{
+    display: flex;
+    align-items: baseline;
+    margin: 100px 200px 100px 100px;
 }
+
+.col1{
+    margin-right: 10px;
+}
+.col2{
+    margin-right:10px ;
+    
+}
+.col3{
+    margin-right: 10px;
+    
+}       
 .del-section{
     background-image:url(../Flower/Rectangle9.png); 
     text-align:center;
